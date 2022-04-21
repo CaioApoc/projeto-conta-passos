@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(70, 142, 236);
+  font-size: 15pt;
+  font-family: Arial, Helvetica, sans-serif;
+  font: normal;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+#btn {
+  margin-bottom: 10px;
+}
+
+input {
+  border-radius: 15px;
+  padding: 3px;
+}
